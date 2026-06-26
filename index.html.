@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Bristi 🧿</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Premium Editorial & Sans Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- THE OVERLAY CURTAIN -->
+    <div id="curtain">
+        <div class="curtain-content">
+            <h1 class="glint-text">A Special Invitation</h1>
+            <p>Crafted exclusively for Bristi.</p>
+            <button id="reveal-btn">Unlock Experience</button>
+        </div>
+    </div>
+
+    <!-- MAIN PREMIUM CONTENT -->
+    <main id="main-content" class="hidden">
+        <header>
+            <h2 class="gold-text">Happy Birthday, Bristi! 🎂❤️🧿</h2>
+            <p class="subtitle">A little token of appreciation for an amazing person.</p>
+        </header>
+
+        <!-- THE LETTER SECTION -->
+        <section class="letter-container">
+            <div class="letter-card">
+                <p>I don't usually say these things, but I'm really grateful to have you in my life. You've become one of those people who make ordinary days a little better just by being around. 😊</p>
+                
+                <p>I hope this year brings you lots of happiness, success, good memories, and everything you've been wishing for. ✨</p>
+                
+                <p>You invited me today, and I genuinely wish I could be there to celebrate with you. 😔 But even if I can't make it, my best wishes are always with you.</p>
+                
+                <p>Keep smiling, keep being your amazing self, and don't change. ❤️</p>
+                
+                <p>And most importantly, I hope that as the years pass, our bond only becomes stronger and stronger. 🧿🌷</p>
+                
+                <p>Enjoy your day, eat lots of cake, click lots of pictures, and make beautiful memories! 🎉🎁</p>
+                
+                <p class="closing">Happy Birthday once again! ❤️</p>
+                
+                <p class="signature">— Gourav 🌸</p>
+            </div>
+        </section>
+
+        <!-- OPTIONAL MEMORY SECTION -->
+        <h3 class="section-title">Captured Moments</h3>
+        <section class="gallery">
+            <div class="photo-card"><div class="photo-placeholder">📸 Our Favorite Memory</div></div>
+            <div class="photo-card"><div class="photo-placeholder">✨ A Beautiful Day</div></div>
+            <div class="photo-card"><div class="photo-placeholder">🎉 Good Times</div></div>
+        </section>
+
+        <footer>
+            <p>Made with ✨ for a special day</p>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
